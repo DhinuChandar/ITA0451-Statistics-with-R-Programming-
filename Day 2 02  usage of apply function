@@ -1,6 +1,3 @@
-Demonstrate the usage of apply function in R 
-
-
 # create a matrix
 m <- matrix(c(1:9), nrow = 3)
 # apply the sum function over the rows
